@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MarsLikePlanetMaterial
+  m_Shader: {fileID: 4800000, guid: 2d5d8d26d9147414399a8641c68bd885, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    'Platform:': '#_H:0, #_S:0, #_V:0, $_Color:"1,1,1,1", $_MainTex_ST:"1,1,0,0",
+      %_MainTex:3ebeb7161687a3b4a8a25d00b59a70d2, %_MainTex_Alpha:b613863e5310dd94e8c0d30a2020a9ce,
+      ?Color:False, ?RGB+A:True, ?Shader:"Color: HSV", ?Vertex:False, _MainTex_Alpha:b613863e5310dd94e8c0d30a2020a9ce'
+    Platform:Android: ?RGB+A:True
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 3ebeb7161687a3b4a8a25d00b59a70d2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex_Alpha:
+        m_Texture: {fileID: 2800000, guid: b613863e5310dd94e8c0d30a2020a9ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BiniUber: 0
+    - _H: 0
+    - _S: 0
+    - _V: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}

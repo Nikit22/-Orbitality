@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SaturnLikePlanetMaterial
+  m_Shader: {fileID: 4800000, guid: 2d5d8d26d9147414399a8641c68bd885, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    'Platform:': '#_H:0.42, #_S:1.55, #_V:-0.15, $_Color:"1,0.984,1,1", $_MainTex_ST:"1,1,0,0",
+      %_MainTex:d70c10fc58548ee4f8881afa6d0e8820, %_MainTex_Alpha:b9e37005e6e8b32479423e7f1e87c901,
+      ?Color:False, ?RGB+A:True, ?Shader:"Color: HSV", ?Vertex:False, _MainTex_Alpha:b9e37005e6e8b32479423e7f1e87c901'
+    Platform:Android: ?RGB+A:True
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: d70c10fc58548ee4f8881afa6d0e8820, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex_Alpha:
+        m_Texture: {fileID: 2800000, guid: b9e37005e6e8b32479423e7f1e87c901, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BiniUber: 0
+    - _H: 0.42
+    - _S: 1.55
+    - _V: -0.15
+    m_Colors:
+    - _Color: {r: 1, g: 0.984, b: 1, a: 1}

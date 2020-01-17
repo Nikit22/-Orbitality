@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nikita\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nikita\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Orbitality.987883927.00" t="ExcludeRecursive" />
+    <e p="D:\Programming\Projects\Orbitality" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Modules" t="Include">
+          <e p="AurynSky" t="Include">
+            <e p="Rockets Missiles and Bombs" t="Include">
+              <e p="READ ME.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Core" t="Include">
+            <e p="Data" t="Include">
+              <e p="RocketCharacteristics.cs" t="Include" />
+            </e>
+            <e p="Enums" t="Include">
+              <e p="Axis.cs" t="Include" />
+              <e p="RocketType.cs" t="Include" />
+            </e>
+            <e p="Extensions" t="Include">
+              <e p="AxisExtensions.cs" t="Include" />
+              <e p="CoroutineExtensions.cs" t="Include" />
+              <e p="RocketTypeExtensions.cs" t="Include" />
+            </e>
+            <e p="Input" t="Include">
+              <e p="AIInput.cs" t="Include" />
+              <e p="PlayerInput.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="IDamagable.cs" t="Include" />
+              <e p="IGravityObject.cs" t="Include" />
+              <e p="Indestructible.cs" t="Include" />
+              <e p="Planet.cs" t="Include" />
+              <e p="Rocket.cs" t="Include" />
+              <e p="Universe.cs" t="Include" />
+            </e>
+            <e p="Pausable" t="Include">
+              <e p="FallingObject.cs" t="Include" />
+              <e p="IPausable.cs" t="Include" />
+              <e p="PausableMonoBehaviour.cs" t="Include" />
+              <e p="SpaceObject.cs" t="Include" />
+            </e>
+            <e p="Physics" t="Include">
+              <e p="Gravity.cs" t="Include" />
+              <e p="Launcher.cs" t="Include" />
+              <e p="PhysicsBody.cs" t="Include" />
+              <e p="RotateAround.cs" t="Include" />
+            </e>
+            <e p="Singularity.cs" t="Include" />
+            <e p="Views" t="Include">
+              <e p="PlanetView.cs" t="Include" />
+              <e p="RocketView.cs" t="Include" />
+            </e>
+          </e>
+          <e p="UI" t="Include">
+            <e p="GameOverMenu.cs" t="Include" />
+            <e p="MainMenu.cs" t="Include" />
+            <e p="PauseMenu.cs" t="Include" />
+            <e p="PlanetHealthView.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="CelShader.shader" t="Include" />
+          <e p="Generated" t="Include">
+            <e p="RGB+A" t="Include">
+              <e p="T" t="Include">
+                <e p="BiniUber Blend Add.shader" t="Include" />
+                <e p="BiniUber Blend Alpha Lit.shader" t="Include" />
+                <e p="BiniUber Blend Alpha.shader" t="Include" />
+                <e p="BiniUber Blend ColorBurn.shader" t="Include" />
+                <e p="BiniUber Blend Darken.shader" t="Include" />
+                <e p="BiniUber Blend Dissolve.shader" t="Include" />
+                <e p="BiniUber Blend Dodge.shader" t="Include" />
+                <e p="BiniUber Blend HardLight.shader" t="Include" />
+                <e p="BiniUber Blend Lighten.shader" t="Include" />
+                <e p="BiniUber Blend LinearBurn.shader" t="Include" />
+                <e p="BiniUber Blend LinearLight.shader" t="Include" />
+                <e p="BiniUber Blend Multiply.shader" t="Include" />
+                <e p="BiniUber Blend Screen.shader" t="Include" />
+                <e p="BiniUber Blend Subtract.shader" t="Include" />
+                <e p="BiniUber Color HSV.shader" t="Include" />
+                <e p="BiniUber Color Levels.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Alpha.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Multiply.shader" t="Include" />
+                <e p="BiniUber Color Tone.shader" t="Include" />
+                <e p="BiniUber Compose Mask.shader" t="Include" />
+                <e p="BiniUber Compose Multi Step Knife.shader" t="Include" />
+                <e p="BiniUber Compose Outline.shader" t="Include" />
+                <e p="BiniUber Grab Color.shader" t="Include" />
+                <e p="BiniUber Grab Hue.shader" t="Include" />
+                <e p="BiniUber Grab Luminosity.shader" t="Include" />
+                <e p="BiniUber Grab Saturation.shader" t="Include" />
+                <e p="BiniUber Special Applique Overlay.shader" t="Include" />
+                <e p="BiniUber UI Alpha.shader" t="Include" />
+                <e p="BiniUber.cginc" t="Include" />
+              </e>
+              <e p="TC" t="Include">
+                <e p="BiniUber Blend Add.shader" t="Include" />
+                <e p="BiniUber Blend Alpha Lit.shader" t="Include" />
+                <e p="BiniUber Blend Alpha.shader" t="Include" />
+                <e p="BiniUber Blend ColorBurn.shader" t="Include" />
+                <e p="BiniUber Blend Darken.shader" t="Include" />
+                <e p="BiniUber Blend Dissolve.shader" t="Include" />
+                <e p="BiniUber Blend Dodge.shader" t="Include" />
+                <e p="BiniUber Blend HardLight.shader" t="Include" />
+                <e p="BiniUber Blend Lighten.shader" t="Include" />
+                <e p="BiniUber Blend LinearBurn.shader" t="Include" />
+                <e p="BiniUber Blend LinearLight.shader" t="Include" />
+                <e p="BiniUber Blend Multiply.shader" t="Include" />
+                <e p="BiniUber Blend Screen.shader" t="Include" />
+                <e p="BiniUber Blend Subtract.shader" t="Include" />
+                <e p="BiniUber Color HSV.shader" t="Include" />
+                <e p="BiniUber Color Levels.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Alpha.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Multiply.shader" t="Include" />
+                <e p="BiniUber Color Tone.shader" t="Include" />
+                <e p="BiniUber Compose Mask.shader" t="Include" />
+                <e p="BiniUber Compose Multi Step Knife.shader" t="Include" />
+                <e p="BiniUber Compose Outline.shader" t="Include" />
+                <e p="BiniUber Grab Color.shader" t="Include" />
+                <e p="BiniUber Grab Hue.shader" t="Include" />
+                <e p="BiniUber Grab Luminosity.shader" t="Include" />
+                <e p="BiniUber Grab Saturation.shader" t="Include" />
+                <e p="BiniUber Special Applique Overlay.shader" t="Include" />
+                <e p="BiniUber UI Alpha.shader" t="Include" />
+                <e p="BiniUber.cginc" t="Include" />
+              </e>
+              <e p="TV" t="Include">
+                <e p="BiniUber Blend Add.shader" t="Include" />
+                <e p="BiniUber Blend Alpha Lit.shader" t="Include" />
+                <e p="BiniUber Blend Alpha.shader" t="Include" />
+                <e p="BiniUber Blend ColorBurn.shader" t="Include" />
+                <e p="BiniUber Blend Darken.shader" t="Include" />
+                <e p="BiniUber Blend Dissolve.shader" t="Include" />
+                <e p="BiniUber Blend Dodge.shader" t="Include" />
+                <e p="BiniUber Blend HardLight.shader" t="Include" />
+                <e p="BiniUber Blend Lighten.shader" t="Include" />
+                <e p="BiniUber Blend LinearBurn.shader" t="Include" />
+                <e p="BiniUber Blend LinearLight.shader" t="Include" />
+                <e p="BiniUber Blend Multiply.shader" t="Include" />
+                <e p="BiniUber Blend Screen.shader" t="Include" />
+                <e p="BiniUber Blend Subtract.shader" t="Include" />
+                <e p="BiniUber Color HSV.shader" t="Include" />
+                <e p="BiniUber Color Levels.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Alpha.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Multiply.shader" t="Include" />
+                <e p="BiniUber Color Tone.shader" t="Include" />
+                <e p="BiniUber Compose Mask.shader" t="Include" />
+                <e p="BiniUber Compose Multi Step Knife.shader" t="Include" />
+                <e p="BiniUber Compose Outline.shader" t="Include" />
+                <e p="BiniUber Grab Color.shader" t="Include" />
+                <e p="BiniUber Grab Hue.shader" t="Include" />
+                <e p="BiniUber Grab Luminosity.shader" t="Include" />
+                <e p="BiniUber Grab Saturation.shader" t="Include" />
+                <e p="BiniUber Special Applique Overlay.shader" t="Include" />
+                <e p="BiniUber UI Alpha.shader" t="Include" />
+                <e p="BiniUber.cginc" t="Include" />
+              </e>
+              <e p="TVC" t="Include">
+                <e p="BiniUber Blend Add.shader" t="Include" />
+                <e p="BiniUber Blend Alpha Lit.shader" t="Include" />
+                <e p="BiniUber Blend Alpha.shader" t="Include" />
+                <e p="BiniUber Blend ColorBurn.shader" t="Include" />
+                <e p="BiniUber Blend Darken.shader" t="Include" />
+                <e p="BiniUber Blend Dissolve.shader" t="Include" />
+                <e p="BiniUber Blend Dodge.shader" t="Include" />
+                <e p="BiniUber Blend HardLight.shader" t="Include" />
+                <e p="BiniUber Blend Lighten.shader" t="Include" />
+                <e p="BiniUber Blend LinearBurn.shader" t="Include" />
+                <e p="BiniUber Blend LinearLight.shader" t="Include" />
+                <e p="BiniUber Blend Multiply.shader" t="Include" />
+                <e p="BiniUber Blend Screen.shader" t="Include" />
+                <e p="BiniUber Blend Subtract.shader" t="Include" />
+                <e p="BiniUber Color HSV.shader" t="Include" />
+                <e p="BiniUber Color Levels.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Alpha.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Multiply.shader" t="Include" />
+                <e p="BiniUber Color Tone.shader" t="Include" />
+                <e p="BiniUber Compose Mask.shader" t="Include" />
+                <e p="BiniUber Compose Multi Step Knife.shader" t="Include" />
+                <e p="BiniUber Compose Outline.shader" t="Include" />
+                <e p="BiniUber Grab Color.shader" t="Include" />
+                <e p="BiniUber Grab Hue.shader" t="Include" />
+                <e p="BiniUber Grab Luminosity.shader" t="Include" />
+                <e p="BiniUber Grab Saturation.shader" t="Include" />
+                <e p="BiniUber Special Applique Overlay.shader" t="Include" />
+                <e p="BiniUber UI Alpha.shader" t="Include" />
+                <e p="BiniUber.cginc" t="Include" />
+              </e>
+            </e>
+            <e p="RGBA" t="Include">
+              <e p="T" t="Include">
+                <e p="BiniUber Blend Add.shader" t="Include" />
+                <e p="BiniUber Blend Alpha Lit.shader" t="Include" />
+                <e p="BiniUber Blend Alpha.shader" t="Include" />
+                <e p="BiniUber Blend ColorBurn.shader" t="Include" />
+                <e p="BiniUber Blend Darken.shader" t="Include" />
+                <e p="BiniUber Blend Dissolve.shader" t="Include" />
+                <e p="BiniUber Blend Dodge.shader" t="Include" />
+                <e p="BiniUber Blend HardLight.shader" t="Include" />
+                <e p="BiniUber Blend Lighten.shader" t="Include" />
+                <e p="BiniUber Blend LinearBurn.shader" t="Include" />
+                <e p="BiniUber Blend LinearLight.shader" t="Include" />
+                <e p="BiniUber Blend Multiply.shader" t="Include" />
+                <e p="BiniUber Blend Screen.shader" t="Include" />
+                <e p="BiniUber Blend Subtract.shader" t="Include" />
+                <e p="BiniUber Color HSV.shader" t="Include" />
+                <e p="BiniUber Color Levels.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Alpha.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Multiply.shader" t="Include" />
+                <e p="BiniUber Color Tone.shader" t="Include" />
+                <e p="BiniUber Compose Mask.shader" t="Include" />
+                <e p="BiniUber Compose Multi Step Knife.shader" t="Include" />
+                <e p="BiniUber Compose Outline.shader" t="Include" />
+                <e p="BiniUber Grab Color.shader" t="Include" />
+                <e p="BiniUber Grab Hue.shader" t="Include" />
+                <e p="BiniUber Grab Luminosity.shader" t="Include" />
+                <e p="BiniUber Grab Saturation.shader" t="Include" />
+                <e p="BiniUber Special Applique Overlay.shader" t="Include" />
+                <e p="BiniUber UI Alpha.shader" t="Include" />
+                <e p="BiniUber.cginc" t="Include" />
+              </e>
+              <e p="TC" t="Include">
+                <e p="BiniUber Blend Add.shader" t="Include" />
+                <e p="BiniUber Blend Alpha Lit.shader" t="Include" />
+                <e p="BiniUber Blend Alpha.shader" t="Include" />
+                <e p="BiniUber Blend ColorBurn.shader" t="Include" />
+                <e p="BiniUber Blend Darken.shader" t="Include" />
+                <e p="BiniUber Blend Dissolve.shader" t="Include" />
+                <e p="BiniUber Blend Dodge.shader" t="Include" />
+                <e p="BiniUber Blend HardLight.shader" t="Include" />
+                <e p="BiniUber Blend Lighten.shader" t="Include" />
+                <e p="BiniUber Blend LinearBurn.shader" t="Include" />
+                <e p="BiniUber Blend LinearLight.shader" t="Include" />
+                <e p="BiniUber Blend Multiply.shader" t="Include" />
+                <e p="BiniUber Blend Screen.shader" t="Include" />
+                <e p="BiniUber Blend Subtract.shader" t="Include" />
+                <e p="BiniUber Color HSV.shader" t="Include" />
+                <e p="BiniUber Color Levels.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Alpha.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Multiply.shader" t="Include" />
+                <e p="BiniUber Color Tone.shader" t="Include" />
+                <e p="BiniUber Compose Mask.shader" t="Include" />
+                <e p="BiniUber Compose Multi Step Knife.shader" t="Include" />
+                <e p="BiniUber Compose Outline.shader" t="Include" />
+                <e p="BiniUber Grab Color.shader" t="Include" />
+                <e p="BiniUber Grab Hue.shader" t="Include" />
+                <e p="BiniUber Grab Luminosity.shader" t="Include" />
+                <e p="BiniUber Grab Saturation.shader" t="Include" />
+                <e p="BiniUber Special Applique Overlay.shader" t="Include" />
+                <e p="BiniUber UI Alpha.shader" t="Include" />
+                <e p="BiniUber.cginc" t="Include" />
+              </e>
+              <e p="TV" t="Include">
+                <e p="BiniUber Blend Add.shader" t="Include" />
+                <e p="BiniUber Blend Alpha Lit.shader" t="Include" />
+                <e p="BiniUber Blend Alpha.shader" t="Include" />
+                <e p="BiniUber Blend ColorBurn.shader" t="Include" />
+                <e p="BiniUber Blend Darken.shader" t="Include" />
+                <e p="BiniUber Blend Dissolve.shader" t="Include" />
+                <e p="BiniUber Blend Dodge.shader" t="Include" />
+                <e p="BiniUber Blend HardLight.shader" t="Include" />
+                <e p="BiniUber Blend Lighten.shader" t="Include" />
+                <e p="BiniUber Blend LinearBurn.shader" t="Include" />
+                <e p="BiniUber Blend LinearLight.shader" t="Include" />
+                <e p="BiniUber Blend Multiply.shader" t="Include" />
+                <e p="BiniUber Blend Screen.shader" t="Include" />
+                <e p="BiniUber Blend Subtract.shader" t="Include" />
+                <e p="BiniUber Color HSV.shader" t="Include" />
+                <e p="BiniUber Color Levels.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Alpha.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Multiply.shader" t="Include" />
+                <e p="BiniUber Color Tone.shader" t="Include" />
+                <e p="BiniUber Compose Mask.shader" t="Include" />
+                <e p="BiniUber Compose Multi Step Knife.shader" t="Include" />
+                <e p="BiniUber Compose Outline.shader" t="Include" />
+                <e p="BiniUber Grab Color.shader" t="Include" />
+                <e p="BiniUber Grab Hue.shader" t="Include" />
+                <e p="BiniUber Grab Luminosity.shader" t="Include" />
+                <e p="BiniUber Grab Saturation.shader" t="Include" />
+                <e p="BiniUber Special Applique Overlay.shader" t="Include" />
+                <e p="BiniUber UI Alpha.shader" t="Include" />
+                <e p="BiniUber.cginc" t="Include" />
+              </e>
+              <e p="TVC" t="Include">
+                <e p="BiniUber Blend Add.shader" t="Include" />
+                <e p="BiniUber Blend Alpha Lit.shader" t="Include" />
+                <e p="BiniUber Blend Alpha.shader" t="Include" />
+                <e p="BiniUber Blend ColorBurn.shader" t="Include" />
+                <e p="BiniUber Blend Darken.shader" t="Include" />
+                <e p="BiniUber Blend Dissolve.shader" t="Include" />
+                <e p="BiniUber Blend Dodge.shader" t="Include" />
+                <e p="BiniUber Blend HardLight.shader" t="Include" />
+                <e p="BiniUber Blend Lighten.shader" t="Include" />
+                <e p="BiniUber Blend LinearBurn.shader" t="Include" />
+                <e p="BiniUber Blend LinearLight.shader" t="Include" />
+                <e p="BiniUber Blend Multiply.shader" t="Include" />
+                <e p="BiniUber Blend Screen.shader" t="Include" />
+                <e p="BiniUber Blend Subtract.shader" t="Include" />
+                <e p="BiniUber Color HSV.shader" t="Include" />
+                <e p="BiniUber Color Levels.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Alpha.shader" t="Include" />
+                <e p="BiniUber Color Silhouette Multiply.shader" t="Include" />
+                <e p="BiniUber Color Tone.shader" t="Include" />
+                <e p="BiniUber Compose Mask.shader" t="Include" />
+                <e p="BiniUber Compose Multi Step Knife.shader" t="Include" />
+                <e p="BiniUber Compose Outline.shader" t="Include" />
+                <e p="BiniUber Grab Color.shader" t="Include" />
+                <e p="BiniUber Grab Hue.shader" t="Include" />
+                <e p="BiniUber Grab Luminosity.shader" t="Include" />
+                <e p="BiniUber Grab Saturation.shader" t="Include" />
+                <e p="BiniUber Special Applique Overlay.shader" t="Include" />
+                <e p="BiniUber UI Alpha.shader" t="Include" />
+                <e p="BiniUber.cginc" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ShaderSources" t="Include">
+            <e p="BiniUber.cginc" t="Include" />
+            <e p="Blend Add.shader" t="Include" />
+            <e p="Blend Alpha Lit.shader" t="Include" />
+            <e p="Blend Alpha.shader" t="Include" />
+            <e p="Blend ColorBurn.shader" t="Include" />
+            <e p="Blend Darken.shader" t="Include" />
+            <e p="Blend Dissolve.shader" t="Include" />
+            <e p="Blend Dodge.shader" t="Include" />
+            <e p="Blend HardLight.shader" t="Include" />
+            <e p="Blend Lighten.shader" t="Include" />
+            <e p="Blend LinearBurn.shader" t="Include" />
+            <e p="Blend LinearLight.shader" t="Include" />
+            <e p="Blend Multiply.shader" t="Include" />
+            <e p="Blend Screen.shader" t="Include" />
+            <e p="Blend Subtract.shader" t="Include" />
+            <e p="Color HSV.shader" t="Include" />
+            <e p="Color Levels.shader" t="Include" />
+            <e p="Color Silhouette Alpha.shader" t="Include" />
+            <e p="Color Silhouette Multiply.shader" t="Include" />
+            <e p="Color Tone.shader" t="Include" />
+            <e p="Compose Mask.shader" t="Include" />
+            <e p="Compose Multi Step Knife.shader" t="Include" />
+            <e p="Compose Outline.shader" t="Include" />
+            <e p="Grab Color.shader" t="Include" />
+            <e p="Grab Hue.shader" t="Include" />
+            <e p="Grab Luminosity.shader" t="Include" />
+            <e p="Grab Saturation.shader" t="Include" />
+            <e p="Special Applique Overlay.shader" t="Include" />
+            <e p="UI Alpha.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Orbitality.sln" t="IncludeFlat" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

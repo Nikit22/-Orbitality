@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2520ccb7-25a0-4226-ad88-e4e400a1ee18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Models/Universe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58A4DD82-307E-4998-A93E-7F385E72C68B/69/e6b0d820/ShortcutExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Models/IGravityObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.2.17f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/InputField.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Physics/RotateAround.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Models/Planet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/GameOverMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Models/Rocket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58A4DD82-307E-4998-A93E-7F385E72C68B/ea/55dbdbbb/DOTweenComponent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/PlanetHealthView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A278EBD4-4AB0-472B-B8E6-38263E06CD61/10/5751410e/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A1CE4CA8-4A94-4D8A-A5E2-3AA6FA322F2E/e6/3b646b83/Physics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/PauseMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Models/Indestructible.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Pausable/FallingObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A278EBD4-4AB0-472B-B8E6-38263E06CD61/4b/6b97086d/Launcher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A278EBD4-4AB0-472B-B8E6-38263E06CD61/ac/ad6f956c/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/567DF3E0-9192-41BA-98DB-88BEC4C6696F/f2/79e66f7a/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Views/PlanetView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A278EBD4-4AB0-472B-B8E6-38263E06CD61/76/425f3646/AsyncOperation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Pausable/PausableMonoBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/Generated/RGBA/TC/BiniUber Blend HardLight.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D68D2D8C-EB59-4D08-92FD-E1254C4EDA0E/50/50380233/AnimationState.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Extensions/CoroutineExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Models/IDamagable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Views/RocketView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Input/AIInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A278EBD4-4AB0-472B-B8E6-38263E06CD61/e0/d83c9009/YieldInstruction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A278EBD4-4AB0-472B-B8E6-38263E06CD61/79/37a79958/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/Generated/RGBA/TVC/BiniUber Blend HardLight.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Input/PlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Extensions/AxisExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Pausable/IPausable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A278EBD4-4AB0-472B-B8E6-38263E06CD61/29/3c3ad5c8/Coroutine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/CelShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Extensions/RocketTypeExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Enums/RocketType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/Generated/RGBA/TV/BiniUber UI Alpha.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A1CE4CA8-4A94-4D8A-A5E2-3AA6FA322F2E/ce/535e3f27/Rigidbody.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Pausable/SpaceObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Singularity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A278EBD4-4AB0-472B-B8E6-38263E06CD61/0a/7060c394/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/567DF3E0-9192-41BA-98DB-88BEC4C6696F/0f/7da4cc36/Action`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58A4DD82-307E-4998-A93E-7F385E72C68B/74/c04f5e1b/TweenExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/Generated/RGB+A/TC/BiniUber Blend HardLight.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Enums/Axis.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Physics/PhysicsBody.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Physics/Launcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Physics/Gravity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A278EBD4-4AB0-472B-B8E6-38263E06CD61/06/845fc6c2/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Data/RocketCharacteristics.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpaceObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FallingObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UniverseView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UniversalGravitation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Universe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GravityObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Planet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gravity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/AxisExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Axis/Axis.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Axis/AxisExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/IGravityObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Planet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/CoroutineExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pausable/FallingObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Extensions/CoroutineExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Rocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PhysicsEngine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/RocketType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Extensions/RpcketTypeExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Singularity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Extensions/RocketTypeExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Universe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Gravity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Launcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Physics/PhysicsEngine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Physics/PhysicsBody.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Physics/RotateAround.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Orbitality/Core/Enums/Axis.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Singularity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Models/Rocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/IDamagable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Data/RocketCharacteristics.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Indestructible.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Physics/Gravity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Views/RocketView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PlanetHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PlanetHealthView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Models/Planet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Physics/IInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Input/IInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PauseMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Views/PlanetView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameOverMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Input/PlayerInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Input/AIInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Physics/Launcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Models/Universe.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WPGe775DeU7EuV2W1UqGiFN7Uj" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="32160">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="32160" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="15068">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="15068" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="498" height="646" key="DebuggerActiveHint" timestamp="1579243096117">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="498" height="646" key="DebuggerActiveHint/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243096117" />
+    <state width="1877" height="233" key="GridCell.Tab.0.bottom" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.0.bottom/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.0.center" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.0.center/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.0.left" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.0.left/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.0.right" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.0.right/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.1.bottom" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.1.bottom/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.1.center" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.1.center/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.1.left" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.1.left/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.1.right" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.1.right/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.2.bottom" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.2.bottom/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.2.center" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.2.center/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.2.left" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.2.left/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.2.right" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.2.right/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.3.bottom" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.3.bottom/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.3.center" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.3.center/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.3.left" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.3.left/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state width="1877" height="233" key="GridCell.Tab.3.right" timestamp="1579243435497">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="233" key="GridCell.Tab.3.right/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579243435497" />
+    <state x="2714" y="-228" key="RiderGenerateDialog" timestamp="1579226941693">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state x="2714" y="-228" key="RiderGenerateDialog/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579226941693" />
+    <state x="2012" y="-270" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579219817295">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="-270" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579219817295" />
+    <state x="2498" y="-217" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579210171752">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state x="2498" y="-217" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579210171752" />
+    <state x="2559" y="-261" width="642" height="837" key="find.popup" timestamp="1579225665717">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state x="2559" y="-261" width="642" height="837" key="find.popup/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579225665717" />
+    <state x="2543" y="-137" width="672" height="678" key="search.everywhere.popup" timestamp="1579244095837">
+      <screen x="1920" y="-362" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="-137" width="672" height="678" key="search.everywhere.popup/77.0.1459.864/1920.-362.1920.1040@1920.-362.1920.1040" timestamp="1579244095837" />
+  </component>
+</project>
